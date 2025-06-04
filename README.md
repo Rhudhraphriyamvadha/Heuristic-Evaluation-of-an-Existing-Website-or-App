@@ -25,8 +25,10 @@ Evaluate the impact of design changes on user behaviour (for Both A and B) using
 
 ## SCREENSHOTS:
 
+![Screenshot 2025-06-04 181642](https://github.com/user-attachments/assets/049acbd8-d600-4b61-b0df-271203b72a0a)
 
-![image](https://github.com/user-attachments/assets/ab0eeb7b-4440-456d-b159-aef7b23e432f)
+
+![Screenshot 2025-04-24 092759](https://github.com/user-attachments/assets/72505c06-db9b-4219-a07a-83dbaa3aad3e)
 
 
 ## Result ;
